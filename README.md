@@ -1,5 +1,5 @@
 # fast-fuzzy-matching
-Fast fuzzy matching for large datasets
+### Fast fuzzy matching for large datasets
 
 Deduplication is a common and necessary task for a lot of datasets, and often requires fuzzy matching between strings to help identify the duplicate records.
 
